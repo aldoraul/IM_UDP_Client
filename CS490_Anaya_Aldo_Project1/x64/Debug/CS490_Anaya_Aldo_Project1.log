@@ -1,0 +1,17 @@
+﻿  main.cpp
+c:\users\aldo\documents\visual studio 2015\projects\cs490_anaya_aldo_project1\cs490_anaya_aldo_project1\main.cpp(49): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\aldo\documents\visual studio 2015\projects\cs490_anaya_aldo_project1\cs490_anaya_aldo_project1\main.cpp(100): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\aldo\documents\visual studio 2015\projects\cs490_anaya_aldo_project1\cs490_anaya_aldo_project1\main.cpp(162): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\aldo\documents\visual studio 2015\projects\cs490_anaya_aldo_project1\cs490_anaya_aldo_project1\main.cpp(64): warning C4477: 'fprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'WCHAR *'
+  c:\users\aldo\documents\visual studio 2015\projects\cs490_anaya_aldo_project1\cs490_anaya_aldo_project1\main.cpp(64): note: consider using '%ls' in the format string
+  c:\users\aldo\documents\visual studio 2015\projects\cs490_anaya_aldo_project1\cs490_anaya_aldo_project1\main.cpp(64): note: consider using '%lls' in the format string
+  c:\users\aldo\documents\visual studio 2015\projects\cs490_anaya_aldo_project1\cs490_anaya_aldo_project1\main.cpp(64): note: consider using '%Ls' in the format string
+  c:\users\aldo\documents\visual studio 2015\projects\cs490_anaya_aldo_project1\cs490_anaya_aldo_project1\main.cpp(64): note: consider using '%ws' in the format string
+c:\users\aldo\documents\visual studio 2015\projects\cs490_anaya_aldo_project1\cs490_anaya_aldo_project1\main.cpp(98): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\aldo\documents\visual studio 2015\projects\cs490_anaya_aldo_project1\cs490_anaya_aldo_project1\main.cpp(160): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\aldo\documents\visual studio 2015\projects\cs490_anaya_aldo_project1\cs490_anaya_aldo_project1\main.cpp(57): warning C4101: 'p': unreferenced local variable
+c:\users\aldo\documents\visual studio 2015\projects\cs490_anaya_aldo_project1\cs490_anaya_aldo_project1\main.cpp(246): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\aldo\documents\visual studio 2015\projects\cs490_anaya_aldo_project1\cs490_anaya_aldo_project1\main.cpp(244): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
